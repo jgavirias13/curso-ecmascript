@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/jgavirias13/curso-ecmascript/issues"
   },
-  "homepage": "https://github.com/jgavirias13/curso-ecmascript#readme"
+  "homepage": "https://github.com/jgavirias13/curso-ecmascript#readme",
+  "type": "module"
 }
