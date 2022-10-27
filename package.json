@@ -16,5 +16,8 @@
     "url": "https://github.com/jgavirias13/curso-ecmascript/issues"
   },
   "homepage": "https://github.com/jgavirias13/curso-ecmascript#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
